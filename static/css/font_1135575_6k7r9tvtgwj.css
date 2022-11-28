@@ -1,0 +1,72 @@
+@font-face {font-family: "iconfont";
+  src: url('../fonts/font_1135575_6k7r9tvtgwj.eot'); /* IE9 */
+  src: url('../fonts/font_1135575_6k7r9tvtgwj.eot') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/font_1135575_6k7r9tvtgwj.woff') format('woff'),
+  url('../fonts/font_1135575_6k7r9tvtgwj.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../fonts/font_1135575_6k7r9tvtgwj.svg') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-click:before {
+  content: "\e605";
+}
+
+.icon-notify:before {
+  content: "\e79b";
+}
+
+.icon-right:before {
+  content: "\e604";
+}
+
+.icon-focus:before {
+  content: "\e61b";
+}
+
+.icon-logon:before {
+  content: "\e600";
+}
+
+.icon-adduser:before {
+  content: "\e602";
+}
+
+.icon-search:before {
+  content: "\e603";
+}
+
+.icon-gift:before {
+  content: "\e601";
+}
+
+.icon-sort:before {
+  content: "\e699";
+}
+
+.icon-rule:before {
+  content: "\e628";
+}
+
+.icon-waiting:before {
+  content: "\e6af";
+}
+
+.icon-up:before {
+  content: "\e61d";
+}
+
+.icon-home:before {
+  content: "\e616";
+}
+
+.icon-llink:before {
+  content: "\e718";
+}
+
