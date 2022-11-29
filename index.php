@@ -6,7 +6,7 @@ require_once 'core/MysqliDb.php';
 $db = new MysqliDb ([
     'host'     => 'localhost',
     'username' => 'root',
-    'password' => '',
+    'password' => '123456',
     'db'       => 'common',
     'port'     => 3306,
     'prefix'   => '',
@@ -20,7 +20,7 @@ $teams = $db->get('team');
 // 访问量
 $db->query("update `data` set visitor_count = visitor_count + 1");
 $visitorCount = $db->getValue('data', 'visitor_count');
-
+$visitorCount = ceil($visitorCount/2);
 // 参与人数
 // $voter = $db->getValue('vote_ctrl', "count(id)");
 $voterCount = $db->getValue('data', 'voter_count');
@@ -241,7 +241,7 @@ $scoreCount = $db->getValue('data', "score_count");
                 <p class="color_8a8a8a">距离活动结束还有</p>
             </div>
             <div class="hdk-day">
-                <p class="color_8a8a8a">
+                <p id="timecount" class="color_8a8a8a">
                     <span>0</span> 天 <span>0</span> 时 <span>0</span> 分 <span>0</span> 秒
                 </p>
               
@@ -430,7 +430,8 @@ $scoreCount = $db->getValue('data', "score_count");
         modulo = modulo % (60 * 60);
         var minutes = Math.floor(modulo / 60);
         var seconds = modulo % 60;
-
+        var str = "<span>"+days+"</span> 天 <span>"+hours+"</span> 时 <span>"+minutes+"</span> 分 <span>"+seconds+"</span> 秒";
+        $("#timecount").html(str);
         setTimeout(function () {
             TimeDown(cla, endDateStr)
         }, 1000)

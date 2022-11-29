@@ -7,7 +7,7 @@ require_once 'core/MysqliDb.php';
 $db   = new MysqliDb ([
     'host'     => 'localhost',
     'username' => 'root',
-    'password' => '',
+    'password' => '123456',
     'db'       => 'common',
     'port'     => 3306,
     'prefix'   => '',
@@ -202,7 +202,8 @@ $db->query("update `data` set visitor_count = visitor_count + 1");
 </div>
 <div class="code">
     <div class="img-box">
-        <img src="static/images/code.png"  alt="">
+        <img src="static/images/code.png"  alt="" style="
+    width: 250px;">
         <p class="tit">请在微信内打开投票</p>
         
     </div>
