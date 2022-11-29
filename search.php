@@ -9,7 +9,7 @@ if ($param) {
     $db = new MysqliDb ([
         'host'     => 'localhost',
         'username' => 'root',
-        'password' => '123456',
+        'password' => '',
         'db'       => 'common',
         'port'     => 3306,
         'prefix'   => '',
