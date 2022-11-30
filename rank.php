@@ -216,7 +216,7 @@ $db->query("update `data` set visitor_count = visitor_count + 1");
                 </strong>
                 <br/>
             </p>
-            <p style="font-size: 14px;margin-top: 0;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">为进一步加强培育和践行社会主义核心价值观，发挥“昌平榜样”在创建全国文明城区、“作风建设年”主题活动等工作中的典型引领作用，大力引导市民群众见贤思齐，立足岗位践行榜样精神，在全区形成学习榜样、推崇榜样、争当榜样的浓厚氛围，昌平区委宣传部（区文明办）继续开展2022年“昌平榜样”选树活动。活动启动以来，全区各镇街、企事业单位积极响应，推荐报送一大批先进典型人物事迹，经区委宣传部（区文明办）联合相关部门组织评选，今年共有30名先进典型进入年榜评选。即日起，组委会将开展为期一周的线上展示及点赞投票活动，最终综合网民投票情况及评委会意见，评选出年度“昌平榜样”。诚邀广大市民积极参与，为榜样点赞加油！</p>
+            <p style="font-size: 14px;margin-top: 0;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">平凡力量，德润昌平。2022年，由昌平区委宣传部（区文明办）主办的“昌平榜样”主题活动共评审产生30组榜样人物作为年度候选人。根据“2022昌平榜样”主题活动工作安排，区委宣传部（区文明办）在全区统一开展“为榜样点赞”网络互动活动，为“2022昌平榜样”年度候选人点赞，传播崇德向善、见贤思齐的文明风尚。</p>
 
             <p style=";text-indent: 38px;line-height: 150%">
                 <span style="font-family: arial helvetica sans-serif; font-size: 14px;">

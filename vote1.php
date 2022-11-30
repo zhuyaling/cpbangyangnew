@@ -18,8 +18,8 @@ if (!password_verify('shuapiao4quanjia', $token)) {
     die;
 }
 
-$start = strtotime('2020-11-30 09:00:00');
-$end   = strtotime('2022-12-6 17:00:00');
+$start = strtotime('2022-11-30 00:00:00');
+$end   = strtotime('2022-12-7 17:00:00');
 $now   = time();
 
 if ($start > $now) {
