@@ -216,7 +216,7 @@ $db->query("update `data` set visitor_count = visitor_count + 1");
                 </strong>
                 <br/>
             </p>
-            <p style="font-size: 14px;margin-top: 0;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">平凡力量，德润昌平。2022年，由昌平区委宣传部（区文明办）主办的“昌平榜样”主题活动共评审产生30组榜样人物作为年度候选人。根据“2022昌平榜样”主题活动工作安排，区委宣传部（区文明办）在全区统一开展“为榜样点赞”网络互动活动，为“2022昌平榜样”年度候选人点赞，传播崇德向善、见贤思齐的文明风尚。</p>
+            <p style="font-size: 14px;margin-top: 0;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">平凡力量，德润昌平。2022年，由昌平区委宣传部（区文明办）主办的“昌平榜样”主题活动共评审产生30位榜样人物作为年度候选人。根据“2022昌平榜样”主题活动工作安排，区委宣传部（区文明办）在全区统一开展“为榜样点赞”网络互动活动，为“2022昌平榜样”年度候选人点赞，传播崇德向善、见贤思齐的文明风尚。</p>
 
             <p style=";text-indent: 38px;line-height: 150%">
                 <span style="font-family: arial helvetica sans-serif; font-size: 14px;">
