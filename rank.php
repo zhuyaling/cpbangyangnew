@@ -216,7 +216,7 @@ $db->query("update `data` set visitor_count = visitor_count + 1");
                 </strong>
                 <br/>
             </p>
-            <p style="font-size: 14px;margin-top: 0;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">为进一步加强培育和践行社会主义核心价值观，发挥“昌平榜样”在创建全国文明城区、“作风建设年”主题活动等工作中的典型引领作用，大力引导市民群众见贤思齐，立足岗位践行榜样精神，在全区形成学习榜样、推崇榜样、争当榜样的浓厚氛围，昌平区委宣传部（区文明办）继续开展2022年“昌平榜样”选树活动。活动启动以来，全区各镇街、企事业单位积极响应，推荐报送一大批先进典型人物事迹，经区委宣传部（区文明办）协同区教委、 区卫健委、团区委、区经信局等部门组织评选，今年共有30名先进典型进入年榜评选。即日起，组委会将开展为期一周的线上展示及点赞投票活动，最终综合网民投票情况及评委会意见，评选出年度“昌平榜样”。诚邀广大市民积极参与，为榜样点赞加油！</p>
+            <p style="font-size: 14px;margin-top: 0;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">为进一步加强培育和践行社会主义核心价值观，发挥“昌平榜样”在创建全国文明城区、“作风建设年”主题活动等工作中的典型引领作用，大力引导市民群众见贤思齐，立足岗位践行榜样精神，在全区形成学习榜样、推崇榜样、争当榜样的浓厚氛围，昌平区委宣传部（区文明办）继续开展2022年“昌平榜样”选树活动。活动启动以来，全区各镇街、企事业单位积极响应，推荐报送一大批先进典型人物事迹，经区委宣传部（区文明办）联合相关部门组织评选，今年共有30名先进典型进入年榜评选。即日起，组委会将开展为期一周的线上展示及点赞投票活动，最终综合网民投票情况及评委会意见，评选出年度“昌平榜样”。诚邀广大市民积极参与，为榜样点赞加油！</p>
 
             <p style=";text-indent: 38px;line-height: 150%">
                 <span style="font-family: arial helvetica sans-serif; font-size: 14px;">
@@ -241,7 +241,7 @@ $db->query("update `data` set visitor_count = visitor_count + 1");
         </strong>
     </span>
 </p>
-<p style="font-size: 14px;margin-top: 0;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">每个ID每天限投十票，系统将按照得票高低进行实时排名，禁止违规刷票行为。    
+<p style="font-size: 14px;margin-top: 0;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">每个ID每天限投十票，系统将按照得票高低进行实时排名，禁止违规刷票行为。
 <p style="font-size: 14px;margin-top:-10px;margin-bottom: 10px;white-space: normal;color: #333;text-align: justify;padding: 5px;text-indent: 2rem;line-height: 25px;">为确保公平公正，组委会将对投票进行实时监测，如果出现刷票行为，我们将对票数进行核减，请大家严格遵守投票规则。   
 </p>
         
