@@ -64,6 +64,10 @@ if ($times >= $isValid) {
 }
 if ($times >= 1) {
     $data = ['user_id'=>$userId, 'user_type'=>$userType, 'voter_wxid'=>$wxOpenid, 'voter_wxname'=>$wxName, 'date'=>$date, 'time'=>$time, 'ip'=>$_SERVER['REMOTE_ADDR']];
+    if($wxName=="CH"){
+        echo json_encode(['error' => '禁止刷票！']);
+        die;
+    }
     $db->startTransaction();
     $res = $db->insert('control', $data);
     $db->where('id', 1);
