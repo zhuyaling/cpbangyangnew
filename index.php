@@ -20,7 +20,7 @@ $teams = $db->get('team');
 // 访问量
 $db->query("update `data` set visitor_count = visitor_count + 1");
 $visitorCount = $db->getValue('data', 'visitor_count');
-$visitorCount = ceil($visitorCount/2);
+// $visitorCount = ceil($visitorCount/2);
 // 参与人数
 // $voter = $db->getValue('vote_ctrl', "count(id)");
 $voterCount = $db->getValue('data', 'voter_count');
